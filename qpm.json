@@ -2,20 +2,20 @@
   "name": "de.skycoder42.qtmvvm.settings.quick",
   "description": "The quick controls 2 frontend of QtMvvm settings module",
   "author": {
-    "name": "Skycoder",
-    "email": "skycoder42.de@gmx.de"
+	"name": "Skycoder",
+	"email": "skycoder42.de@gmx.de"
   },
   "repository": {
-    "type": "GITHUB",
-    "url": "https://github.com/Skycoder42/QtMvvmSettingsQuick.git"
+	"type": "GITHUB",
+	"url": "https://github.com/Skycoder42/QtMvvmSettingsQuick.git"
   },
   "version": {
-    "label": "1.0.2",
-    "revision": "",
-    "fingerprint": ""
+	"label": "1.0.3",
+	"revision": "",
+	"fingerprint": ""
   },
   "dependencies": [
-    "de.skycoder42.qtmvvm.quick@1.0.2"
+	"de.skycoder42.qtmvvm.quick@1.0.3"
   ],
   "license": "BSD_3_CLAUSE",
   "pri_filename": "de_skycoder42_qtmvvm_settings_quick.pri",
