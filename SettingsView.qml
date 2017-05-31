@@ -63,10 +63,10 @@ Page {
 
 		function closeAction() {
 			if(settingsStack.depth <= 1)
-				return true;
+				return false;
 			else {
 				var item = settingsStack.pop();
-				return false;
+				return true;
 			}
 		}
 	}
