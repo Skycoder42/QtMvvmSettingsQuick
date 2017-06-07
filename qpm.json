@@ -10,12 +10,12 @@
 	"url": "https://github.com/Skycoder42/QtMvvmSettingsQuick.git"
   },
   "version": {
-	"label": "1.0.4",
+	"label": "1.0.5",
 	"revision": "",
 	"fingerprint": ""
   },
   "dependencies": [
-	"de.skycoder42.qtmvvm.quick@1.0.4"
+	"de.skycoder42.qtmvvm.quick@1.0.5"
   ],
   "license": "BSD_3_CLAUSE",
   "pri_filename": "de_skycoder42_qtmvvm_settings_quick.pri",
