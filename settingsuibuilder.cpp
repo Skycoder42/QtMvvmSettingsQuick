@@ -183,6 +183,6 @@ QUrl SettingsUiBuilder::svgEscape(QUrl url)
 
 static void registerSettingsTypes()
 {
-	qmlRegisterUncreatableType<SettingsControl>("de.skycoder42.qtmvvm.settings.quick", 1, 0, "SettingsControl", "Controls cannot be created!");
+	qmlRegisterUncreatableType<SettingsControl>("de.skycoder42.qtmvvm.settings.quick", 1, 0, "SettingsControl", QStringLiteral("Controls cannot be created!"));
 	qmlRegisterType<SettingsUiBuilder>("de.skycoder42.qtmvvm.settings.quick", 1, 0, "SettingsUiBuilder");
 }
